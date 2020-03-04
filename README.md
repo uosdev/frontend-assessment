@@ -6,7 +6,7 @@ Note that although this is a real-world task, we will not be using your code; th
 ## Instructions
 1. Copy or pull this repo to your local machine
 2. Complete the task via the inclusion of **new** stylesheets/and or scripts (don't modify existing stylesheets/scripts).
-3. Once finished, zip up the project folder and email it to j.d.lineker@soton.ac.uk.
+3. Once finished, zip up the project folder and email it to paul.thwaite@soton.ac.uk.
 
 ## Task
 Create a new template variant that displays a banner when a course is available in clearing. The banner should replace the existing call-to-action buttons.
